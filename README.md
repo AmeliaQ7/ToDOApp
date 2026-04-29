@@ -144,10 +144,10 @@ Zadania są filtrowane lokalnie na podstawie stanu `filter`:
 ---
 
 ###Screenshot
-<img width="1397" height="370" alt="image" src="https://github.com/user-attachments/assets/92c2eaf7-a5f5-4a84-8c9c-d1bcb22ca595" />
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/79cdfcd2-5e6f-4c24-941c-12acec43bf82" />
-<img width="946" height="2047" alt="image" src="https://github.com/user-attachments/assets/9cbb77e9-5b33-4d25-9ad5-341df337775c" />
-<img width="946" height="2047" alt="image" src="https://github.com/user-attachments/assets/d71614dd-9986-44a5-9e01-2e09f0964b01" />
+<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/92c2eaf7-a5f5-4a84-8c9c-d1bcb22ca595" />
+<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/79cdfcd2-5e6f-4c24-941c-12acec43bf82" />
+<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/9cbb77e9-5b33-4d25-9ad5-341df337775c" />
+<img width="400" height="850" alt="image" src="https://github.com/user-attachments/assets/d71614dd-9986-44a5-9e01-2e09f0964b01" />
 
 
 
