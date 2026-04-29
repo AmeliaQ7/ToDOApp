@@ -1,6 +1,7 @@
 # ToDOApp
 
 Prosta aplikacja mobilna typu To-Do stworzona w React Native, wykorzystująca bazę danych Firebase Firestore do przechowywania zadań.
+Autorzy: Górska Aleksandra, Kogutowska Amelia
 
 ---
 
