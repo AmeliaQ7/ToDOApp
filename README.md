@@ -142,17 +142,3 @@ Zadania są filtrowane lokalnie na podstawie stanu `filter`:
 * `done` – wykonane
 
 ---
-
-## Możliwe ulepszenia
-
-* Zastosowanie `onSnapshot` zamiast `getDocs` (aktualizacja w czasie rzeczywistym)
-* Dodanie autoryzacji użytkowników
-* Edycja treści zadania
-* Lepsza struktura projektu (rozdzielenie komponentów)
-* Obsługa błędów dla użytkownika (UI zamiast console.log)
-
----
-
-## Licencja
-
-Projekt do użytku edukacyjnego.
